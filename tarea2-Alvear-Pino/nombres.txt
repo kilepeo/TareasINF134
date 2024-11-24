@@ -1,0 +1,26 @@
+Josefina Pino Monsalve
+PAR 203
+202373619-8
+Programó:
+- La función juntar y sus funciones auxiliares
+- La función separar y sus funciones auxiliares
+- La funcion agregar y sus funciones auxiliares
+- Realizó el método de lectura y procesamiento para REVERSO
+- Realizó el método de lectura y procesamiento para ELIMINAR.
+- Realizó el método de lectura y procesamiento para RECORTAR.
+- Realizó los comentarios.
+
+Ricardo Alvear Chávez.
+202373574-4
+PAR 203
+Programó:
+- La función reverso y sus funciones auxiliares.
+- La función limpiar y sus funciones auxiliares
+- La función stringizar y sus funciones auxiliares.
+- La función recortar y sus funciones auxiliares
+- Definió la pila y su TDA.
+- Hizo el main.
+- Realizó el método de lectura y procesamiento para INSERTAR.
+- Realizó el método de lectura y procesamiento para MOSTRAR.
+- Realizó el método de lectura y procesamiento para FIN.
+- Realizó los comentarios.

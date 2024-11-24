@@ -1,0 +1,14 @@
+Josefina Pino Monsalve.
+PAR 203
+202373619-8
+Programó:
+	-Función principal main.
+	-Lógica de las casillas amenazadas.
+	-Lógica de los limites del tablero.
+
+Ricardo Alvear Chávez.
+202373574-4
+PAR 203
+Programó:
+	-Lógica de las piezas.
+	-Tablero en jaque mate.

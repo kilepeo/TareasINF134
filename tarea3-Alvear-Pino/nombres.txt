@@ -1,0 +1,24 @@
+Josefina Pino Monsalve
+PAR 203
+202373619-8
+Programó:
+- La función hash.
+- La función obtener.
+- La funcion agregar.
+- La función modificar.
+- La función estadisticas.
+- Realizó el método de lectura y procesamiento para AGREGAR.
+- Realizó el método de lectura y procesamiento para ESTADISTICAS.
+- Realizó los comentarios.
+
+Ricardo Alvear Chávez.
+202373574-4
+PAR 203
+Programó:
+- La función factorial.
+- La función p.
+- La función eliminar.
+- La función redimensionar.
+- Realizó el método de lectura y procesamiento para OBTENER.
+- Realizó el método de lectura y procesamiento para QUITAR.
+- Realizó los comentarios.
